@@ -1,0 +1,89 @@
+Timestamp	Condition	DOC	dose
+7-2-2021 9:21:13	COPD 	TIOTROPIUM 	18μg inhalation OD
+7-2-2021 9:22:35	Narcoanalysis 	THIOPENTONE	3-6mg IV anesthesia induction (adult)
+7-2-2021 9:23:40	Motion Sickness	SCOPOLAMINE	0.3-0.5 mg ORAL/IM (adult), 10μg/kg (children)
+7-2-2021 9:24:47	Huntington's Chorea	TETRABENAZINE	12.5mg OD morning, after 1week 12.5mg BID
+7-2-2021 9:25:40	Tardive Dyskinesea	DEUTETRABENAZINE, VALBENAZINE	40mg OD, after a week 80mg OD
+7-2-2021 9:26:10	Cocaine Dependence , Hyperprolactinemia in women	BROMOCRIPTINE	1.25-2.5mg daily
+7-2-2021 9:26:54	Cardiac Arrest, Anaphylatic Shock, Brittle Asthma	EPINEPHRINE	0.2-0.5mg SC/IM
+7-2-2021 9:27:43	Vasodilatory Shock, Cardiogenic Shock	NOREPINEPHRINE	2-4μg/min IV infusion
+7-2-2021 9:28:35	Oligourea + Cardiogenic Shock / CHF ( Congestive Heart Failure ) + Renal Failure / Acute Heart Failure + Oligourea	DOPAMINE	2-20mcg/kg/min to max 50mcg/kg/min by 5-10mcg/kg/min IV infusion
+7-2-2021 9:29:15	Anesthetic agent induced Hypotension	PHENYLEPHRINE	5-10mg ORAL, 2-5MG im, 0.1-0.5 slow IV inj, 30-60μg/min IV infusion
+7-2-2021 9:29:36	Postural Hypotension	MIDODRINE	2.5mg TID to max 10mg TID (NOT BEFORE BEDTIME)
+7-2-2021 9:30:06	Hypertension Emergency , Hypertension Pregnancy	LABETALOL	0.15-0.3 mg every 3-6hrs, max dose - 0.75mg per 24 hours
+7-2-2021 9:30:24	Tourette Syndrome	CLONIDINE	0.15-0.3 mg every 3-6hrs, max dose - 0.75mg per 24 hours
+7-2-2021 9:33:59	Cheese Reaction / Clonidine withdrawal reaction	PHENTOLAMINE	
+7-2-2021 9:35:26	ADHD	METHYL PHENIDATE	
+7-2-2021 9:40:50	ADHD with Tourette Syndrome	ATOMOXETINE	
+7-2-2021 9:41:17	ADHD with Drug abuse	ATOMOXETINE	
+7-2-2021 9:42:38	Narcolepsy	MODAFINIL	
+7-2-2021 9:43:07	Shift Workers disease	MODAFINIL	
+7-2-2021 9:43:29	Excessive Sleep Apnea	MODAFINIL	
+7-2-2021 9:43:57	Erectile Dysfunction	SIDENAFIL	
+7-2-2021 9:44:54	Pre-Operative Hypertension in Phaeochromocytoma	PHENOXYBEZAMINE	
+7-2-2021 9:45:49	Scorpion bite associated with Pulmonary Edema	PRAZOSIN	
+7-2-2021 9:47:03	BPH ( Benign Prostatic Hypertrophy ) with Hyertension	PRAZOSIN, TERAZOSIN, DOXAZOSIN	
+7-4-2021 18:40:15	Closed Angle Glaucoma	PILOCARPINE	0.5% - 4% topically in eye 
+7-5-2021 10:48:18	Open Angle Glaucoma	LATANOPROST	0.005% topical OD in evening
+7-5-2021 10:51:06	Acute Congestive Glaucoma	HYPERTONIC MANNITOL 	20% 1.5-2g/kg IV infusion
+7-5-2021 10:56:43	Morning Sickness	DOXYLAMINE	25mg OD 
+	Plain Cardiogenic Shock , Acute heart failure without Oligourea	DOBUTAMINE	
+	Ventricular Arrhythmia , DIGOXIN induced Ventricular Arrhythmia , Ventricular Arrhythmia + MI / Myocardial Infarction	LIDOCAINE / LIGNOCAINE	50-100mg bolus followed by 20-40mg every 10-20mins or 1-3mg/min IV 
+	Bradycardia , AV block	ATROPINE	0.6-2.0mg IM/IV
+	Resistant Hypertension , Cirrhotic edema	SPIRONOLACTONE	
+	Metabolic Syndrome + Hypertension , Diabetes Mellitis + Hypertension , Dyslipidemia + Hypertension, Gout + Hypertension	VERAPAMIL	
+	Dissecting Aortic Aneurysm	SODIUM NITROPRUSSIDE	0.02mg/min IV 
+	Ventricuar Tachycardia , Ventricular Fibrillation , Resistant Arrythmias	AMIODARONE	400-600mg/day ORAL for few weeks
+	Long QT Syndrome	Magnesium Sulphate	
+	Wolff Parkinson White ( WPW ) syndrome	FLECAIMIDE	
+	Atrial Fibrillation with WPW syndrome	PROCAINAMIDE	
+	Acute Mountain Sickness	ACETAZOLAMIDE	250mg OD-BD
+	Li / Lithium induced Diabetes Mellitus	AMILORIDE	5-10mg OD-BD
+	Nocturnal enuresis 	IMIPRAMIDE	
+	Neurogenic Diabetes Insipidus	DESMOPRESSIN	
+	Neophrogenic and Neurogenic Diabetes Insipidus	THIAZIDES	
+	Thyphoid Carriers , Meningococcal Carriers	CIPROFLOXACIN	250-750mg ORAL, 100-200mg IV
+	enterococcus faecalis , listeriosis	AMPICILLIN	
+	H pylori eradication	AMOXICILLIN	
+	VRSA Vancomycin Resistant Staphylococcus Aureus	DAPTOMYCIN	
+	VRSA Vancomycin Resistant Staphylococcus Aureus + pneumonia	LINEZOLID	
+	MRSA Methicillin Resistant Staphylococcus Aureus , Pseudomembranous Colitis , Enterococci faecalis	VANCOMYCIN	
+	MRSA Methicillin Resistant Staphylococcus Aureus Nasal Carriers	MUPIROCIN	
+	Thyphoid , Meningococcal Meningitis	CEFTRIAXONE	
+	Gonorrhea	CEFTRIAXONE + AZITHROMYCIN / DOXYCYCLINE	
+	Melidiosis , Pseudomonas	CEFTAZIDIME	
+	Borreliosis, Brucellosis , Bartonella , Chlamydia , Cholera , Granuloma Inguinale, Ricketssial infection , Mycoplasma , LGV	DOXYCYCLINE	
+	asymptomatic intestinal carriers of entamoeba histolytica , amoebiasis	PARAMOMYCIN	
+	toxoplasmosis during pregnancy 1st trimester	SPIRAMYCIN	
+	Pertusis , Diptheria	ERYTHROMYCIN	
+	Atypical Pneumonia , Gonococcal and Non Gonococcal Urethritis	AZITHROMYCIN	
+	TOXIC SHOCK SYNDROME	VANCOMYCIN + CLINDAMYCIN	
+	Acute Rheumatic Fever	ASPIRIN	
+	Filariasis	DIETHYLCARBAMAZINE CITRATE	
+	Rheumatic Arthritis	Methotrexate	
+	Tuberculosis	H R Z E IZONIAZID , RIFAMPICIN , PYRAZINAMIDE , ETHAMBUTOL	
+	Mushroom poisoning	ATROPINE	
+	Trichomonas vaginalis	METRONIDAZOLE	
+	Acute dystonia	TRIHEXYPHEIDYL / BENZHEXOL	
+	Resistant Schizophrenia , Suicidal Tendency	CLOZAPINE	
+	Parkinson 's 	LEVODOPA	
+	Alzheimer 's	DONEPAZIL	
+	Acute heart attack	Sublingual NTG Nitroglycerine	
+	Dyslipidemia with high LDL	STATINS	
+	Allergy	CETRIZINE	
+	Common Cold	ACETAMINOPHEN	
+	Influenza	OSELTAMIVIR - prophylaxis , ZANAMIVIR - treatment	
+	Hypertension with Asthma , Hypertension with Glaucoma	BETAXOLOL	
+	Thyroid storm	PROPRANOLOL	
+	Adrenal Cancer 	MITOTANE	
+	Akathesia	PROPRANOLOL	
+	Pulmonary Edema	FUROSEMIDE	
+	Acetinobacter	BETA LACTAMS , CARBAPENEMS	
+	Resistant gram negative infection : Enterobacter , Pseudomonas , Acetinobacter	POLYMIXIN B	
+	Acromegaly	OCTREOTIDE , LAMREOTIDE	
+	Actinomycosis	PENICILLIN G ( IV ) , AMOXYCILLIN ( ORAL )	
+	Acute gastric bleeding ulcer	OMEPRAZOLE	
+	Allergic Bronchopulmonary Aspergillosis	PREDNISOLONE	
+	Allergic Rhinitis / Hay Fever	BUDESONIDE , BECLAMETHASONE | in children - CROMOLYN SODIUM	
+	ALL - Acute Lymphoid Leukemia	Regimen - VINCRISTINE , PREDNISOLONE , L - ASPARGINASE , DOXORUBICN	
+	AML - Acute Myeloid Leukemia	two drug combo - ( DAUNORUBICIN + CYTARABINE(cont IV) )	
