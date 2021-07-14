@@ -29,7 +29,7 @@ class Database:
             if len(ListOfConditions)>0:
                 print('0.If not found')
                 options=int(input("Enter your option"))
-                if options<flag and options!=0:
+                if options<=flag and options!=0:
                     self.word=ListOfConditions[options-1]
                     return self.getResult()
             else:
